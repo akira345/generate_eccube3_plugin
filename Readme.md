@@ -1,6 +1,6 @@
 ec-cube3のプラグインスケルトン生成ツールです。
 
-[サンプルプラグイン](http://qiita.com/chihiro-adachi/items/6318642120f67faedf0) の初期状態を生成します。
+[サンプルプラグイン](http://qiita.com/chihiro-adachi/items/6318642120f67faedf0b) の初期状態を生成します。
 
 使い方
 
